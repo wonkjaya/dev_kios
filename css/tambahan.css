@@ -1,0 +1,23 @@
+.left_bar_content{
+	width:97%;
+	min-height:46px;
+	color:#428bca;
+	margin-top:20px;
+}
+.left_bar_content .image{
+	width:20%;
+	height:100%;
+	background:white;
+	border:1px solid #ddd;
+	float:left;
+}
+.left_bar_content span{
+	width:70%;
+	height:100%;
+	float:left;
+	margin-left:4%;
+}
+.detail{
+float:left;
+width:40%;
+}
