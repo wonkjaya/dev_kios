@@ -8,4 +8,4 @@ a:hover{text-decoration:none;}
 .li{font-size:20px;}
 .head-title{color:#AAD3D0}
 .head-title:hover{color:#F90}
-.head-title .title-pref{color:#F90;font-weight:bold;}
+.head-title .title-pref{color:#F90}

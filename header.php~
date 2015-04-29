@@ -4,7 +4,7 @@
 		<div class="col-md-3">
 			<a href="">
 				<h1 class="head-title">
-				 <img src="<?=bloginfo('stylesheet_directory'); ?>/css/logo.png"/>KIOS<span class="title-pref">27</span>
+				 KIOS<span class="title-pref">27</span>
 				</h1>
 			</a>
 			<p style="color:#67ABA6">Kiosnya orang Indonesia</p>
