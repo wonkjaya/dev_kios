@@ -1,4 +1,18 @@
-<script src="<?php echo bloginfo('stylesheet_directory'); ?>/js/jquery.js"></script>
+
+<!DOCTYPE html>
+<!-- saved from url=(0036) -->
+<html lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="">
+		<meta name="author" content="">
+		<title><?= bloginfo('name').wp_title(); ?></title>
+		<link href="<?php echo bloginfo('stylesheet_directory'); ?>/style.css" rel="stylesheet">
+		<script src="<?php echo bloginfo('stylesheet_directory'); ?>/js/jquery.js"></script>
+		<script src="<?php echo bloginfo('stylesheet_directory'); ?>/js/bootstrap.js"></script>
+	</head>
 <div class="row" style="background:#4A3C7C">
 		<!-- Logo -->
 		<div class="col-md-3">

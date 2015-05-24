@@ -1,10 +1,20 @@
-<div class="row" style="min-height:500px;"><!-- row -->
-	<div class="col-md-2"></div>
+<hr style="margin-bottom:0px;"/>
+<div class="row" style="min-height:500px;margin-top:0px;"><!-- row -->
+	<div class="col-md-4">
+		<div class='row'>
+			<div class="col-md-3" style="overflow:hidden;">
+				<img src="" alt="" class="img-rounded">
+			</div>
+			<div class="col-md-3" style="overflow:hidden;">2</div>
+			<div class="col-md-3" style="overflow:hidden;">3</div>
+			<div class="col-md-3" style="overflow:hidden;">4</div>
+		</div>
+	</div>
 	<div class="col-md-8">
 		<div class="row">
-		  <div class="col-md-12" style="margin-top:5px;text-align:center;">`
-			<div class="jumbotron" style="padding:10px;">
-			  <h1>Dapatkan Segera toko online impian anda sekarang juga!!</h1>
+		  <div class="col-md-12" style="text-align:left;">`
+			<div class="left-content" style="">
+			  <h2>BUAT TOKO ONLINE SEKARANG !!!</h2>
 			  <h3 class='text-left'>Penawaran Terbaik Kami</h3>
 				<ul class='text-left'>
 				 <li class='glyphicon glyphicon-hdd' style='display:block;padding:15px;'> 
@@ -28,6 +38,5 @@
 		  </div>
 		</div>
 	</div>
-	<div class="col-md-2"></div>
 </div> <!-- end row -->
 
